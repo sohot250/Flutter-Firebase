@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583710713317",
+    "project_id": "lab8-54f50",
+    "storage_bucket": "lab8-54f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583710713317:android:a6252401e47973fa233b0c",
+        "android_client_info": {
+          "package_name": "com.example.lec8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583710713317-4k2ff3om0of7c9ma8ai34vdbl16cbjbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tBlFE1MthSzkbQs6S7mzcbBt6HyDMHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583710713317-4k2ff3om0of7c9ma8ai34vdbl16cbjbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
