@@ -1,4 +1,4 @@
-# lec8
+# Flutter with Firebase
 
 A new Flutter project.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![1_resize](https://user-images.githubusercontent.com/60227444/154072129-1bdf22dd-6c35-470d-8f47-790a74c7c948.png)
+![2_resize](https://user-images.githubusercontent.com/60227444/154072136-7157bafb-8f1b-4b8f-b8be-7b924730b026.png)
+![3_resize](https://user-images.githubusercontent.com/60227444/154072145-38062edf-ce9a-4c29-affa-be34faf309f3.png)
